@@ -1,0 +1,8 @@
+Towards Achieving Keyword Search Over Dynamic Encryted Cloud Data Instructions- 
+
+Start the program by opening the "Start.bat" file
+
+The default user and password for cloud is --
+user-- cloud
+pass-- cloud
+
